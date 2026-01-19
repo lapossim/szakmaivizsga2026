@@ -1,0 +1,14 @@
+Eszközök:
+- Chart.js
+
+---
+
+Adatbázis:
+- users (userid, email, password, money)
+- transactions (userid, amount, category, direction (kimenő vagy bejövő))
+
+---
+
+Célok:
+- Chart.jssel diagrammokat csinálni
+- lekérdezések kategória/dátum/stb alapján
