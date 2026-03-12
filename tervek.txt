@@ -1,5 +1,7 @@
 Eszközök:
 - Chart.js
+- MUI
+- Prime React
 
 ---
 
