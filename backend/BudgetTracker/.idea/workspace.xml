@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afc78956-b0c8-4b60-bf27-9af3b9b678f3" name="Changes" comment="Created BudgetTrackerController">
+      <change beforePath="$PROJECT_DIR$/../../budgettracker/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../budgettracker/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../budgettracker/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../budgettracker/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../budgettracker/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../budgettracker/src/main/java/hu/nyirszikszi/budgettracker/BudgetTrackerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../budgettracker/src/main/java/hu/nyirszikszi/budgettracker/controller/BudgetTrackerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../budgettracker/src/main/java/hu/nyirszikszi/budgettracker/service/BudgetTrackerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../budgettracker/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../budgettracker/src/test/java/hu/nyirszikszi/budgettracker/BudgettrackerApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lapossim&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lapossim/szakmaivizsga2026.git&quot;,
+    &quot;accountId&quot;: &quot;ef5b1f4d-717f-4b5b-b2d8-5ddcfba0bffc&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3AcW4jVG5G4MoXwBShKUof5WfAy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.BudgetTrackerApplication.executor": "Run",
+    "Spring Boot.BudgettrackerApplication.executor": "Run",
+    "git-widget-placeholder": "#1 on develop",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/luci stuff/school/szakmaivizsga2026/backend/BudgetTracker/pom.xml"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afc78956-b0c8-4b60-bf27-9af3b9b678f3" name="Changes" comment="" />
+      <created>1772892150542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772892150542</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Created BudgetTracker directory">
+      <option name="closed" value="true" />
+      <created>1772892498457</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772892498457</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created BudgetTrackerService">
+      <option name="closed" value="true" />
+      <created>1772892847598</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772892847598</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created BudgetTracker directory">
+      <option name="closed" value="true" />
+      <created>1772893094476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772893094476</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created BudgetTrackerController">
+      <option name="closed" value="true" />
+      <created>1772904367795</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772904367795</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created BudgetTrackerService" />
+    <MESSAGE value="Created BudgetTracker directory" />
+    <MESSAGE value="Created BudgetTrackerController" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created BudgetTrackerController" />
+  </component>
+</project>
