@@ -1,0 +1,19 @@
+@media (min-width: 800px) {
+    .homeBody {
+        margin-top: 20px;
+        padding-left: 5px;
+        padding-top: 5px;
+        background-color:cadetblue;
+        color: aqua;
+    }
+}
+
+@media (max-width: 800px) {
+    .homeBody {
+        margin-top: 20px;
+        padding-left: 5px;
+        padding-top: 5px;
+        background-color:cadetblue;
+        color: aqua;
+    }
+}

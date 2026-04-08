@@ -4,11 +4,16 @@ body {
     
 }
 
+a {
+  color: #E6C384;
+}
+
 /* disabled color code #70624D */
 
 @media (min-width: 800px) {
   .desktopNavbar {
     display: flex;
+    position: fixed;
     background-color: #1F1F28;
     color: #E6C384;
     height: 50px;
@@ -45,6 +50,7 @@ body {
 
   .phoneNavbar {
     display: flex;
+    position: fixed;
     flex-wrap: wrap;
     background-color: #1F1F28;
     color: #E6C384;
@@ -70,5 +76,6 @@ body {
     width: 100vw;
     background-color: #1F1F28;
     padding-left: 5px;
+    z-index: 1000;
   }
 }
