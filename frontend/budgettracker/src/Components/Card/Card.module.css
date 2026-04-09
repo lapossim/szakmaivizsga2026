@@ -1,4 +1,26 @@
-.cardBody {
-    background-color: #1F1F28;
-    color: #E6C384;
+@media (min-width: 800px) {
+    .cardBody {
+        background-color: #1F1F28;
+        color: #E6C384;
+        width: 400px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 1px;
+        padding-bottom: 5px;
+        border-radius: 2em;
+        text-align: justify;
+    }
+}
+
+@media (max-width: 800px) {
+    .cardBody {
+        background-color: #1F1F28;
+        color: #E6C384;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 1px;
+        padding-bottom: 5px;
+        border-radius: 2em;
+        text-align: justify;
+    }
 }
