@@ -2,11 +2,14 @@
     .cardBody {
         background-color: #1F1F28;
         color: #E6C384;
-        width: 400px;
+        width: 100%;
+        max-width: 400px;
+        height: fit-content;
         padding-left: 20px;
         padding-right: 20px;
         padding-top: 1px;
         padding-bottom: 5px;
+        margin-bottom: 20px;
         border-radius: 2em;
         text-align: justify;
     }
@@ -20,7 +23,12 @@
         padding-right: 20px;
         padding-top: 1px;
         padding-bottom: 5px;
+        margin-bottom: 20px;
         border-radius: 2em;
         text-align: justify;
     }
+}
+
+img {
+    width: 100%;
 }

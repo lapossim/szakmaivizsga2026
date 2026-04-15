@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afc78956-b0c8-4b60-bf27-9af3b9b678f3" name="Changes" comment="Created BudgetTrackerController">
-      <change beforePath="$PROJECT_DIR$/../../budgettracker/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../budgettracker/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../budgettracker/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../budgettracker/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../budgettracker/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../budgettracker/src/main/java/hu/nyirszikszi/budgettracker/BudgetTrackerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../budgettracker/src/main/java/hu/nyirszikszi/budgettracker/controller/BudgetTrackerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../budgettracker/src/main/java/hu/nyirszikszi/budgettracker/service/BudgetTrackerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../budgettracker/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../budgettracker/src/test/java/hu/nyirszikszi/budgettracker/BudgettrackerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nyirszikszi/budgettracker/controller/BudgetTrackerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/nyirszikszi/budgettracker/service/BudgetTrackerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/budgettracker/src/Components/Card/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/budgettracker/src/Components/Card/Card.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/budgettracker/src/Components/Card/Card.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/budgettracker/src/Components/Card/Card.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/budgettracker/src/Routes/Home/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/budgettracker/src/Routes/Home/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/budgettracker/src/Routes/Home/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/budgettracker/src/Routes/Home/Home.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,10 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -58,23 +63,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "Spring Boot.BudgetTrackerApplication.executor": "Run",
-    "Spring Boot.BudgettrackerApplication.executor": "Run",
-    "git-widget-placeholder": "#1 on develop",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/luci stuff/school/szakmaivizsga2026/backend/BudgetTracker/pom.xml"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BudgetTrackerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.BudgettrackerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lapos/Documents/GitHub/szakmaivizsga2026/backend/BudgetTracker/pom.xml&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
       </set>
     </attachedChunks>
   </component>
