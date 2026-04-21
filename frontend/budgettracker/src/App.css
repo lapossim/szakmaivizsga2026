@@ -1,11 +1,11 @@
 body {
     padding: 0px;
     margin: 0px;
-    
+    user-select: none;
 }
 
 a {
-  color: #E6C384;
+  color: #E6F082;
 }
 
 /* disabled color code #70624D */
@@ -14,10 +14,11 @@ a {
   .desktopNavbar {
     display: flex;
     position: fixed;
-    background-color: #1F1F28;
-    color: #E6C384;
+    background-color: #292929;
+    color: #D8D365;
     height: 50px;
     width: 100vw;
+    z-index: 1000;
   }
 
   .phoneNavbar {
@@ -52,11 +53,12 @@ a {
     display: flex;
     position: fixed;
     flex-wrap: wrap;
-    background-color: #1F1F28;
-    color: #E6C384;
+    background-color: #292929;
+    color: #D8D365;
     height: 50px;
     width: 100vw;
     font-size: 25px;
+    z-index: 1000;
   }
 
   .title {
@@ -74,7 +76,7 @@ a {
 
   .listButton {
     width: 100vw;
-    background-color: #1F1F28;
+    background-color: #292929;
     padding-left: 5px;
     z-index: 1000;
   }
