@@ -3,7 +3,7 @@
         background-color: #454040;
         color: #E6F082;
         width: 100%;
-        max-width: 400px;
+        max-width: 500px;
         height: fit-content;
         padding-left: 20px;
         padding-right: 20px;
@@ -11,7 +11,6 @@
         padding-bottom: 5px;
         margin-bottom: 20px;
         border-radius: 2em;
-        text-align: justify;
     }
 }
 
@@ -25,7 +24,6 @@
         padding-bottom: 5px;
         margin-bottom: 20px;
         border-radius: 2em;
-        text-align: justify;
     }
 }
 

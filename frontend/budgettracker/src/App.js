@@ -5,10 +5,12 @@ import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import About from './Routes/About/About';
 import Login from './Routes/Login/Login';
 import Home from './Routes/Home/Home';
+import Dashboard from './Routes/Dashboard/Dashboard';
 
 function App() {
 
   let [visible, setVisible] = useState(false);
+  let [isLoggedIn, setIsLoggedIn] = useState(false);
 
   function menuButton() {
     setVisible(!visible)
@@ -19,9 +21,9 @@ function App() {
       <BrowserRouter>
         <div className='desktopNavbar'>
           <div className='title'>BudgetTracker</div>
-          <Link to="/" className='listButton'>Home</Link>
+          <Link to="/" className='listButton'>Főoldal</Link>
           <Link to="/about" className='listButton'>About</Link>
-          <Link to="/login" className='listButton'>Login</Link>
+          {isLoggedIn ? <Link to="/dashboard" className='listButton'>Fiókom</Link> : <Link to="/login" className='listButton'>Bejelentkezés</Link>}
         </div>
 
 
@@ -31,13 +33,13 @@ function App() {
             <MenuIcon sx={{ fontSize: 25 }}/>
           </div>
           <div className='listButton' style={{display:visible?'block':'none'}}>
-            <Link to="/" className='listButton' onClick={menuButton}>Home</Link>
+            <Link to="/" className='listButton' onClick={menuButton}>Főoldal</Link>
           </div>
           <div className='listButton' style={{display:visible?'block':'none'}}>
             <Link to="/about" className='listButton' onClick={menuButton}>About</Link>
           </div>
           <div className='listButton' style={{display:visible?'block':'none'}}>
-            <Link to="/login" className='listButton' onClick={menuButton}>Login</Link>
+            {isLoggedIn ? <Link to="/account" className='listButton'>Fiókom</Link> : <Link to="/login" className='listButton'>Bejelentkezés</Link>}
           </div>
         </div>
 
@@ -47,6 +49,7 @@ function App() {
           <Route path="/" element={<Home />}/>
           <Route path="/about" element={<About />} />
           <Route path="/login" element={<Login />} />
+          <Route path="/dashboard" element={<Dashboard />} />
         </Routes>
 
       </BrowserRouter>
