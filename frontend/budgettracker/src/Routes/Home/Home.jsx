@@ -5,9 +5,20 @@ export default function Home() {
     return (
         <div className={styles.homeBody}>
             <h1>Home</h1>
-            <p>asd asd asdasd sad sasdsa dsdssad sadsadsd sad asd</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse maximus, dui ut vehicula laoreet, dui erat maximus magna, id lacinia turpis dui id dolor. Curabitur ornare nibh sed tempor mollis. Ut libero enim, laoreet non euismod in, dapibus et ante. Phasellus eget risus magna. Sed consequat pharetra massa, sit amet dapibus nisi efficitur eu. Integer nunc ligula, tempor non placerat sit amet, feugiat vel velit. Donec id tellus euismod, fringilla ipsum in, posuere elit. Quisque quis justo vehicula, molestie ex id, ultricies mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed luctus ut justo ut pulvinar</p>
-            <p>Mauris sit amet hendrerit ex. Integer dictum purus metus, sed porta tortor rutrum eget. Praesent aliquam volutpat nisi, molestie mollis dolor euismod quis. Morbi rhoncus enim est. Vivamus fermentum nisi ante, non ultrices ex varius et. Sed ut tempus neque, ac sollicitudin ipsum. Fusce dui diam, fringilla et sodales eu, cursus sit amet eros. In bibendum ligula id felis iaculis, nec tincidunt neque suscipit. Aenean at venenatis arcu, a egestas felis. Nam dapibus purus varius sem interdum feugiat. Duis finibus tristique tellus eget rutrum. Phasellus pretium dolor ligula, ut interdum erat molestie ut. Nulla dolor ligula, tristique vel faucibus nec, ullamcorper ut sapien. Cras hendrerit nisi sed imperdiet sollicitudin.</p>
+            <div className={styles.cards}>
+                <h2>Vedd kezedbe pénzügyeidet egyszerűen!</h2>
+            </div>
+
+            <div className={styles.cards}>
+                <h3>
+                    Regisztrálj másodpercek alatt.
+                    <br/>
+                    Rögzítsd a napi pénzmozgésodat.
+                    <br/>
+                    Elemezd a szokásaidat és spórolj!
+                </h3>
+            </div>
+
             <div className={styles.cards}>
                 <Card title={"A BudgetTrackerről"} content={{p1:"A BudgetTracker egy olyan alkalmazás, ami segít megkönnyíteni a pénzügyi döntéseinek meghozását. Átláthatóvá tesszük pénzének mozgását, segítünk Önnek számon tartani illetve hogy mire és mennyit költött.", p2:""}}></Card>
                 <div className={styles.gap}></div>
