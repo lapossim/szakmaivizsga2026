@@ -50,6 +50,7 @@ export default function Login() {
 
     return (
         <div className={styles.loginBody}>
+            <title>Login</title>
             <div className={styles.loginBox}>
 
 

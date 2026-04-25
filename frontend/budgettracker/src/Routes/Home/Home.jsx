@@ -19,6 +19,8 @@ export default function Home() {
                 </h3>
             </div>
 
+            <br/>
+
             <div className={styles.cards}>
                 <Card title={"A BudgetTrackerről"} content={{p1:"A BudgetTracker egy olyan alkalmazás, ami segít megkönnyíteni a pénzügyi döntéseinek meghozását. Átláthatóvá tesszük pénzének mozgását, segítünk Önnek számon tartani illetve hogy mire és mennyit költött.", p2:""}}></Card>
                 <div className={styles.gap}></div>

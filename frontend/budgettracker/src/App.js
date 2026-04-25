@@ -18,6 +18,7 @@ function App() {
 
   return (
     <div className="App">
+      <title>BudgetTracker</title>
       <BrowserRouter>
         <div className='desktopNavbar'>
           <div className='title'>BudgetTracker</div>
