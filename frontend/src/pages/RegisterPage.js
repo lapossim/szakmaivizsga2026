@@ -18,7 +18,7 @@ const RegisterPage = () => {
             login({ username }, response.data.token);
             navigate('/');
         } catch (err) {
-            setError('Failed to register. Please try again.');
+            setError('Regisztráció sikertelen. Kérlek próbáld újra.');
         }
     };
 

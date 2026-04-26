@@ -17,7 +17,7 @@ const LoginPage = () => {
             login({ username }, response.data.token);
             navigate('/');
         } catch (err) {
-            setError('Invalid username or password');
+            setError('Hibás felhasználónév vagy jelszó');
         }
     };
 
