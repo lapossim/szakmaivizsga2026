@@ -53,7 +53,7 @@ const TransactionsPage = () => {
                 <select name="type" value={filters.type} onChange={handleFilterChange}>
                     <option value="">Minden típus</option>
                     <option value="INCOME">Bevétel</option>
-                    <option value="EXPENSE">Kiadáa</option>
+                    <option value="EXPENSE">Kiadás</option>
                 </select>
                 <div className='gap'></div>
                 <button type="submit">Szűrés</button>
