@@ -1,4 +1,3 @@
-/* Global Styles */
 #root {
     background-color: #4d4941;
     color: #E6F082;
@@ -26,7 +25,6 @@ h1 {
     padding: 20px;
 }
 
-/* Navbar */
 .navbar {
     background-color: #292929;
     padding: 15px 30px;
@@ -70,7 +68,6 @@ h1 {
     background-color: #202020;
 }
 
-/* Forms */
 form {
     background: #524c4c;
     padding: 30px;
@@ -166,7 +163,6 @@ button[type="change"] {
     justify-content: space-between;
 }
 
-/* Tables */
 table {
     width: 100%;
     border-collapse: collapse;
@@ -190,7 +186,6 @@ table tbody tr:nth-child(even) {
     background-color: #454040;
 }
 
-/* Responsive */
 @media (max-width: 768px) {
     .navbar {
         flex-direction: column;
